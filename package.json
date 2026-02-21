@@ -20,7 +20,7 @@
   "homepage": "https://github.com/shivang1305/namaste-react/tree/master#readme",
   "dependencies": {
     "@babel/preset-react": "^7.22.5",
-    "@parcel/babel-preset-env": "^2.9.3",
+    "@parcel/babel-preset-env": "^2.16.3",
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.17.0",
     "babel-plugin-transform-remove-strict-mode": "^0.0.2",
